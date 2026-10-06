@@ -1,0 +1,56 @@
+# ==========================================
+# Dokumentasi & Catatan (.md)
+# ==========================================
+*.md
+
+# ==========================================
+# Database & SQL Dumps (.sql)
+# ==========================================
+*.sql
+*.sqlite
+*.db
+
+# ==========================================
+# Script App (Google Apps Script / Eksternal)
+# ==========================================
+google_apps_script_*.js
+google_apps_script_finbot.js
+*.gs
+
+# ==========================================
+# CodeIgniter Temporary & Log Files
+# ==========================================
+application/cache/*
+!application/cache/index.html
+!application/cache/.gitkeep
+
+Finbot.php
+index.php
+showcase.php
+konsep.png
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.gitkeep
+
+# ==========================================
+# Environment & Sensitive Files
+# ==========================================
+.env
+.env.*
+*.log
+
+# ==========================================
+# OS & Editor Specific Files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
