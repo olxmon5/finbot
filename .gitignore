@@ -24,6 +24,11 @@ application/cache/*
 !application/cache/index.html
 !application/cache/.gitkeep
 
+# ==========================================
+# Assets Folder
+# ==========================================
+assets/
+
 Finbot.php
 index.php
 showcase.php
