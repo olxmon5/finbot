@@ -29,9 +29,6 @@ application/cache/*
 # ==========================================
 assets/
 
-Finbot.php
-index.php
-showcase.php
 konsep.png
 
 application/logs/*
